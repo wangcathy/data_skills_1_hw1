@@ -32,6 +32,7 @@
 # them pick again. Repeat until they pick a valid vegetable.
 available_vegetables = ['carrot', 'kale', 'broccoli', 'pepper']
 choice = input('Please pick a vegetable I have available: ')
+print("choice")
 
 
 # Question 1.4: Write a list comprehension that starts with any list of strings and returns a new
